@@ -1,13 +1,14 @@
 {
-  "name": "chAhmedRaza/vue-image-tags",
-  "author": "Ahmed Raza",
-  "license": "MIT",
+  "name": "vue-image-tags",
   "version": "1.0.0",
-  "description": "A Vue.js plugin for tagging images",
+  "description": "A Vue plugin for creating tags on images",
   "main": "dist/vue-image-tags.ssr.js",
   "browser": "dist/vue-image-tags.esm.js",
   "module": "dist/vue-image-tags.esm.js",
   "unpkg": "dist/vue-image-tags.min.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "node_modules/.bin/eslint ./",
@@ -21,12 +22,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chAhmedRaza/vue-image-tags"
-  },
-  "bugs": {
-    "url": "https://github.com/chAhmedRaza/vue-image-tags/issues"
-  },
-  "homepage": "https://github.com/chAhmedRaza/vue-image-tags#readme",
+    "url": "git+https://github.com/chAhmedRaza/vue-image-tags.git"
+  },  
+  "keywords": [
+    "vue",
+    "image",
+    "tags"
+  ],
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.3.1",
@@ -50,5 +52,11 @@
   },
   "engines": {
     "node": ">=8"
-  }
+  },
+  "author": "Ahmed Raza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chAhmedRaza/vue-image-tags/issues"
+  },
+  "homepage": "https://github.com/chAhmedRaza/vue-image-tags#readme"
 }
