@@ -1,5 +1,5 @@
 # Vue Image Tags
-Vue image tags is a plugin to create tag products, faces, materials on images. 
+Vue image tags is a plugin to create tags on images. 
 
 ## Demo
 ![demo-gif](https://user-images.githubusercontent.com/16884249/102064540-405eef00-3e19-11eb-92aa-e08244c7ee9e.gif)
