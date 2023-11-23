@@ -1,3 +1,8 @@
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+# DEPRECATED ⛔️
+This package is no longer maintained.
+
 # Vue Image Tags
 Vue image tags is a plugin to create tags on images. 
 
